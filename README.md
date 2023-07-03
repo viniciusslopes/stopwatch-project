@@ -1,1 +1,1 @@
-# stopwatch-project
+# cronômetro em JavaScript
